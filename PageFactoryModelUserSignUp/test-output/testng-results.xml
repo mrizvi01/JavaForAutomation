@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application Launched Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Register link is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Register link is clicked successfully and User is navigated to Sign-Up Form]]>
+    </line>
+    <line>
+      <![CDATA[First Name field is displayed ]]>
+    </line>
+    <line>
+      <![CDATA[First Name is Minhaj]]>
+    </line>
+    <line>
+      <![CDATA[Last Name field is displayed ]]>
+    </line>
+    <line>
+      <![CDATA[The Last Name is Rizvi]]>
+    </line>
+    <line>
+      <![CDATA[Address Field is displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Address is Purvanchal Royal Park, Sector 137]]>
+    </line>
+    <line>
+      <![CDATA[City Text Box is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The City Name is Noida]]>
+    </line>
+    <line>
+      <![CDATA[State Text Box is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The State Name is Uttar Pradesh]]>
+    </line>
+    <line>
+      <![CDATA[Postal / Zip Code Text Box is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The Postal / Zip Code is 201305]]>
+    </line>
+    <line>
+      <![CDATA[Mobile Number Text field is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The Mobile Number is 9953123499]]>
+    </line>
+    <line>
+      <![CDATA[SSN Field is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The SSN Number is 987654311]]>
+    </line>
+    <line>
+      <![CDATA[User Name Field is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The User Name is rizvi06]]>
+    </line>
+    <line>
+      <![CDATA[Password Field is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Password is March2023]]>
+    </line>
+    <line>
+      <![CDATA[Confirm Password Field is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Password is March2023]]>
+    </line>
+    <line>
+      <![CDATA[The Register Button is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Register Button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The Successful SignUp message text is:  Welcome rizvi06
+Your account was created successfully. You are now logged in.]]>
+    </line>
+    <line>
+      <![CDATA[Application Closed Successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-03-13T21:09:55 IST" name="Automation Suite" finished-at="2023-03-13T21:10:04 IST" duration-ms="9606">
+    <groups>
+    </groups>
+    <test started-at="2023-03-13T21:09:55 IST" name="User SignUp Test" finished-at="2023-03-13T21:10:04 IST" duration-ms="9606">
+      <class name="com.telus.testcases.ParaBankSignUp">
+        <test-method signature="launchApplicaton()[pri:1, instance:com.telus.testcases.ParaBankSignUp@1b1426f4]" started-at="2023-03-13T21:09:55 IST" name="launchApplicaton" finished-at="2023-03-13T21:10:02 IST" duration-ms="7112" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Launched Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchApplicaton -->
+        <test-method signature="navigatestoSignUpForm()[pri:2, instance:com.telus.testcases.ParaBankSignUp@1b1426f4]" started-at="2023-03-13T21:10:02 IST" name="navigatestoSignUpForm" finished-at="2023-03-13T21:10:03 IST" duration-ms="772" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Register link is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Register link is clicked successfully and User is navigated to Sign-Up Form]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigatestoSignUpForm -->
+        <test-method signature="fillingAndSubmittingSignUpForm()[pri:3, instance:com.telus.testcases.ParaBankSignUp@1b1426f4]" started-at="2023-03-13T21:10:03 IST" name="fillingAndSubmittingSignUpForm" finished-at="2023-03-13T21:10:04 IST" duration-ms="1453" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[First Name field is displayed ]]>
+            </line>
+            <line>
+              <![CDATA[First Name is Minhaj]]>
+            </line>
+            <line>
+              <![CDATA[Last Name field is displayed ]]>
+            </line>
+            <line>
+              <![CDATA[The Last Name is Rizvi]]>
+            </line>
+            <line>
+              <![CDATA[Address Field is displayed ]]>
+            </line>
+            <line>
+              <![CDATA[Address is Purvanchal Royal Park, Sector 137]]>
+            </line>
+            <line>
+              <![CDATA[City Text Box is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The City Name is Noida]]>
+            </line>
+            <line>
+              <![CDATA[State Text Box is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The State Name is Uttar Pradesh]]>
+            </line>
+            <line>
+              <![CDATA[Postal / Zip Code Text Box is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The Postal / Zip Code is 201305]]>
+            </line>
+            <line>
+              <![CDATA[Mobile Number Text field is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The Mobile Number is 9953123499]]>
+            </line>
+            <line>
+              <![CDATA[SSN Field is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The SSN Number is 987654311]]>
+            </line>
+            <line>
+              <![CDATA[User Name Field is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The User Name is rizvi06]]>
+            </line>
+            <line>
+              <![CDATA[Password Field is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Password is March2023]]>
+            </line>
+            <line>
+              <![CDATA[Confirm Password Field is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Password is March2023]]>
+            </line>
+            <line>
+              <![CDATA[The Register Button is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Register Button is clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- fillingAndSubmittingSignUpForm -->
+        <test-method signature="validatingSuccessfullMsg()[pri:4, instance:com.telus.testcases.ParaBankSignUp@1b1426f4]" started-at="2023-03-13T21:10:04 IST" name="validatingSuccessfullMsg" finished-at="2023-03-13T21:10:04 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[The Successful SignUp message text is:  Welcome rizvi06
+Your account was created successfully. You are now logged in.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatingSuccessfullMsg -->
+        <test-method signature="closeApplication()[pri:5, instance:com.telus.testcases.ParaBankSignUp@1b1426f4]" started-at="2023-03-13T21:10:04 IST" name="closeApplication" finished-at="2023-03-13T21:10:04 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Closed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.telus.testcases.ParaBankSignUp -->
+    </test> <!-- User SignUp Test -->
+  </suite> <!-- Automation Suite -->
+</testng-results>
